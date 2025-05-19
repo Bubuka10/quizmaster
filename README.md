@@ -21,7 +21,7 @@ Full-stack MERN kvízalkalmazás, amelyet az ELTE IK programtervező informatiku
 - MongoDB + Mongoose
 - JSON Web Token (JWT)
 
-## 🚀 Telepítés
+## 🚀 Telepítés + Futtatás
 
 1. Klónozd a repót:
 
