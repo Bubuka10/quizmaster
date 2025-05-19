@@ -76,6 +76,7 @@ npm run test-integration
 
 # Összes teszt:
 npm run test-all
+```
 
 ## 📄 Licenc
 
