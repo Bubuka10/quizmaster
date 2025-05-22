@@ -1,83 +1,71 @@
-# QuizMaster 🎯
+# 🎯 QuizMaster
 
-Full-stack MERN kvízalkalmazás, amelyet az ELTE IK programtervező informatikus szakán (szoftverfejlesztő szakirányon) a szakdolgozatom keretében fejlesztettem.
+**QuizMaster** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js), developed as part of my BSc thesis in Software Engineering at Eötvös Loránd University (ELTE).  
+It allows users to take quizzes, view results, and compete on a leaderboard — with an admin interface for managing quizzes.
 
-## 🧠 Funkciók
+---
 
-- Felhasználói regisztráció és bejelentkezés (JWT alapú)
-- Admin oldal kvízek létrehozásához és szerkesztéséhez
-- Véletlenszerűen kiválasztott kérdések
-- Eredmények kiértékelése, újrajátszási lehetőség
-- Leaderboard és válasz-összehasonlító nézet
+## 🚀 Live Demo
 
-## 🛠️ Tech stack
+Coming soon (deployed via Vercel or Render)
 
-**Frontend**:
+---
+
+## ✨ Features
+
+- 🔐 **User authentication** – Secure JWT-based login and registration
+- 🧠 **Randomized quizzes** – Unique questions each time you play
+- 👤 **User dashboard** – View your quiz history and retake quizzes
+- 🏆 **Leaderboard** – Displays the best score per user per quiz
+- ⚙️ **Admin panel** – Create/edit quizzes, manage questions and options
+- 📊 **Answer review** – See your results with correct/incorrect answers marked
+- 📦 **MongoDB integration** – Efficient storage of quizzes, users, and results
+- 🌐 **Fully responsive UI** – Built with React and Bootstrap
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
 - React
-- Bootstrap
+- React Router
+- Redux (for state management)
+- Bootstrap (for styling)
 
-**Backend**:
-- Node.js + Express
-- MongoDB + Mongoose
-- JSON Web Token (JWT)
+### Backend
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+- JSON Web Tokens (JWT) for authentication
+- Bcrypt (for password hashing)
 
-## 🚀 Telepítés + Futtatás
+---
 
-1. Klónozd a repót:
+## ⚙️ Project Structure
 
-```bash
-git clone https://github.com/Bubuka10/quizmaster.git
-```
+quizmaster/
+├── client/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── redux/
+│ │ └── ...
+├── server/
+│ ├── routes/
+│ ├── models/
+│ ├── middleware/
+│ └── ...
 
-2. Telepítsd a backendet:
 
-```bash
-cd quizmaster/server
-npm install
-```
+---
 
-3. Hozz létre egy `.env` fájlt a `server/` mappában, a `.env.example` alapján:
+## 🧪 Testing
 
-```
-PORT=5000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret_key
-```
+> Unit tests written using Jest and Supertest.  
+Tests are available for models, routes, and components (in progress).
 
-4. Indítsd a szervert:
+---
 
-```bash
-npm run dev
-```
+## 📄 License
 
-5. Telepítsd a frontendet:
-
-```bash
-cd ../client
-npm install
-npm start
-```
-
-6. A frontend elérhető lesz a `http://localhost:3000` címen, a backend pedig a `http://localhost:5000`-on.
-
-## 🧪 Tesztelés
-
-A backendhez unit és integrációs teszteket is írtam.
-
-- Mocha + Chai + Sinon
-- Supertest az API teszteléshez
-
-```bash
-# Egységtesztek futtatása:
-npm run test-unit
-
-# Integrációs tesztek futtatása:
-npm run test-integration
-
-# Összes teszt:
-npm run test-all
-```
-
-## 📄 Licenc
-
-MIT
+This project is licensed under the MIT License
