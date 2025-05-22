@@ -1,6 +1,6 @@
 # 🎯 QuizMaster
 
-**QuizMaster** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js), developed as part of my BSc thesis in Software Engineering at Eötvös Loránd University (ELTE).  
+**QuizMaster** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js), developed as part of my BSc thesis in Computer Science at Eötvös Loránd University (ELTE).  
 It allows users to take quizzes, view results, and compete on a leaderboard — with an admin interface for managing quizzes.
 
 ---
@@ -38,10 +38,10 @@ It allows users to take quizzes, view results, and compete on a leaderboard — 
 ## 🧪 Testing
 
 > Unit tests written using Jest and Supertest.  
-Tests are available for models, routes, and components (in progress).
+Tests are available for models, routes, and components.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
