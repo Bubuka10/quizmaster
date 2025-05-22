@@ -88,3 +88,4 @@ Tests are available for models, routes, and components.
 ## 📄 License
 
 This project is licensed under the MIT License.
+Made with ❤️ by [Bálint Farkas](https://www.linkedin.com/in/bálint-farkas-815a45358/)
