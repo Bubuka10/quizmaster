@@ -18,6 +18,13 @@ It allows users to take quizzes, view results, and compete on a leaderboard — 
 
 ---
 
+## 🖼️ Screenshots
+
+![image](https://github.com/user-attachments/assets/994f54a6-f89d-4af1-bf38-08841123fcb7)
+
+
+---
+
 ## 🛠️ Technologies Used
 
 ### Frontend
