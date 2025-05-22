@@ -5,12 +5,6 @@ It allows users to take quizzes, view results, and compete on a leaderboard — 
 
 ---
 
-## 🚀 Live Demo
-
-Coming soon (deployed via Vercel or Render)
-
----
-
 ## ✨ Features
 
 - 🔐 **User authentication** – Secure JWT-based login and registration
@@ -38,24 +32,6 @@ Coming soon (deployed via Vercel or Render)
 - MongoDB with Mongoose
 - JSON Web Tokens (JWT) for authentication
 - Bcrypt (for password hashing)
-
----
-
-## ⚙️ Project Structure
-
-quizmaster/
-├── client/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── redux/
-│ │ └── ...
-├── server/
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ └── ...
-
 
 ---
 
