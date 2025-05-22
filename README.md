@@ -85,6 +85,12 @@ Tests are available for models, routes, and components.
 
 ---
 
+## 🚀 Live Demo
+
+This project is not currently deployed online. Please refer to the screenshots section above for a visual overview of the application.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.
