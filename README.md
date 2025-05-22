@@ -20,20 +20,44 @@ It allows users to take quizzes, view results, and compete on a leaderboard — 
 
 ## 🖼️ Screenshots
 
-![image](https://github.com/user-attachments/assets/994f54a6-f89d-4af1-bf38-08841123fcb7)
-![image](https://github.com/user-attachments/assets/ebc7debe-3cc7-4516-9dea-a3ac999a5a08)
-![image](https://github.com/user-attachments/assets/80a3f137-2095-447b-b099-da69ca3ab8ae)
-![image](https://github.com/user-attachments/assets/78950c83-1364-4662-8a64-147ac84e8a04)
-![image](https://github.com/user-attachments/assets/05bfce60-cd22-4359-86b3-cad4e00521c9)
-![image](https://github.com/user-attachments/assets/43939001-c671-4cfb-9c5f-bcbe347391f5)
-![image](https://github.com/user-attachments/assets/1c970b1d-2fac-40a7-b656-c27af6760a36)
-![image](https://github.com/user-attachments/assets/8b5821c3-8c07-43ba-9bf8-d518cd6b0d24)
-![image](https://github.com/user-attachments/assets/445e4869-2637-454f-83f5-45f9ebb891ee)
-![image](https://github.com/user-attachments/assets/fa36ec56-69b9-40a3-9a8d-62881391a1fd)
-![image](https://github.com/user-attachments/assets/c2b41cd7-eb25-4395-a960-f17456c2dd8d)
-![image](https://github.com/user-attachments/assets/7f828d3c-6612-4f05-b3a9-60cbe201e215)
-![image](https://github.com/user-attachments/assets/851784ec-d176-44fe-8df3-176655cd8990)
+### 🏠 Homepage
+![Homepage](https://github.com/user-attachments/assets/994f54a6-f89d-4af1-bf38-08841123fcb7)
 
+### 📝 Registration
+![Register](https://github.com/user-attachments/assets/ebc7debe-3cc7-4516-9dea-a3ac999a5a08)
+
+### 🔐 Login
+![Login](https://github.com/user-attachments/assets/80a3f137-2095-447b-b099-da69ca3ab8ae)
+
+### 📚 Quiz List (User View)
+![Quizzes_user](https://github.com/user-attachments/assets/78950c83-1364-4662-8a64-147ac84e8a04)
+
+### ⚙️ Quiz Management (Admin View)
+![Quizzes_admin](https://github.com/user-attachments/assets/05bfce60-cd22-4359-86b3-cad4e00521c9)
+
+### 📨 Quiz Requests (User)
+![Requests_user](https://github.com/user-attachments/assets/43939001-c671-4cfb-9c5f-bcbe347391f5)
+
+### ✅ Quiz Requests (Admin)
+![Requests_admin](https://github.com/user-attachments/assets/1c970b1d-2fac-40a7-b656-c27af6760a36)
+
+### ➕ Submit New Request
+![NewRequest](https://github.com/user-attachments/assets/8b5821c3-8c07-43ba-9bf8-d518cd6b0d24)
+
+### 📊 Quiz Result
+![Results](https://github.com/user-attachments/assets/445e4869-2637-454f-83f5-45f9ebb891ee)
+
+### 🧠 Taking a Quiz
+![Quiz](https://github.com/user-attachments/assets/fa36ec56-69b9-40a3-9a8d-62881391a1fd)
+
+### 📋 Reviewing Answers
+![Answers](https://github.com/user-attachments/assets/c2b41cd7-eb25-4395-a960-f17456c2dd8d)
+
+### 🆕 Create New Quiz (Admin)
+![NewQuiz](https://github.com/user-attachments/assets/7f828d3c-6612-4f05-b3a9-60cbe201e215)
+
+### 🚫 404 Error Page
+![404](https://github.com/user-attachments/assets/851784ec-d176-44fe-8df3-176655cd8990)
 
 ---
 
